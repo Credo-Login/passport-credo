@@ -1,0 +1,30 @@
+{
+  "name": "passport-credo",
+  "version": "1.0.0",
+  "description": "Credo OAuth2 Authentication Strategy for Passport.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Credo-Login/passport-credo.git"
+  },
+  "keywords": [
+    "passport",
+    "credo",
+    "auth",
+    "authn",
+    "authentication",
+    "identiy"
+  ],
+  "author": "Alexandru Niculae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Credo-Login/passport-credo/issues"
+  },
+  "homepage": "https://github.com/Credo-Login/passport-credo#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.5.0"
+  }
+}
